@@ -1,4 +1,8 @@
-# PinCracker
+<p align="center">
+  <a href="LICENSE.md">
+    <img src="https://img.shields.io/github/license/JakeJMattson/PinCracker.svg">
+  </a>
+</p>
 
 <p align="justify">
 Brute force pin combinations. This program was made specifically for 
